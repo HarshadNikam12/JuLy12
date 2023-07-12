@@ -46,6 +46,7 @@ public class EmployeeStreamDemo
 		
 	
 		
+		employee.stream().forEach(e->System.out.println(e));
 		
 		
 //		List<Integer> collect = employee.stream().map(e->e.getEid()).sorted(Comparator.reverseOrder()).limit(5).collect(Collectors.toList());

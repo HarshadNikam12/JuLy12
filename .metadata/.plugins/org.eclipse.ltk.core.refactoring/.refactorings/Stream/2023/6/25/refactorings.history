@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Methods.Map.java&apos; to &apos;Maps.java&apos;&#x0D;&#x0A;- Original project: &apos;Stream&apos;&#x0D;&#x0A;- Original element: &apos;Methods.Map.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Methods.Maps.java&apos;" description="Rename compilation unit &apos;Map.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Methods{Map.java" name="Maps.java" references="false" stamp="1687537462241" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.tech.string.ConvertNumberToString&apos; to &apos;Convert_Number_To_String&apos;&#x0D;&#x0A;- Original project: &apos;StringProgram&apos;&#x0D;&#x0A;- Original element: &apos;com.tech.string.ConvertNumberToString&apos;&#x0D;&#x0A;- Renamed element: &apos;com.tech.string.Convert_Number_To_String&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ConvertNumberToString&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.tech.string{ConvertNumberToString.java[ConvertNumberToString" matchStrategy="1" name="Convert_Number_To_String" qualified="false" references="true" similarDeclarations="false" stamp="1687766028734" textual="false" version="1.0"/>
+</session>
